@@ -1,0 +1,46 @@
+_repo: Works-of-Lucian-of-Samosata-Volume-03_6829
+contributor:
+  translators:
+  - agent_name: Fowler, H. W. (Henry Watson)
+    alias: Fowler, Henry Watson
+    birthdate: 1858
+    deathdate: 1933
+    gutenberg_agent_id: '1998'
+    url: http://www.gutenberg.org/2009/agents/1998
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Watson_Fowler
+  - agent_name: Fowler, F. G. (Francis George)
+    alias: Fowler, Francis George
+    birthdate: 1870
+    deathdate: 1918
+    gutenberg_agent_id: '1999'
+    url: http://www.gutenberg.org/2009/agents/1999
+    wikipedia: http://en.wikipedia.org/wiki/Francis_George_Fowler
+creator:
+  author:
+    agent_name: Lucian, of Samosata
+    aliases:
+    - Samosata, Lucian of
+    - Λουκιανός, ο Σαμοσατεύς
+    - Λουκιανός, ὁ Σαμοσατεύς
+    - Λουκιανος, ο Σαμοσατευς
+    birthdate: 120
+    deathdate: 180
+    gutenberg_agent_id: '1997'
+    url: http://www.gutenberg.org/2009/agents/1997
+    wikipedia:
+    - http://el.wikipedia.org/wiki/%CE%9B%CE%BF%CF%85%CE%BA%CE%B9%CE%B1%CE%BD%CF%8C%CF%82
+    - http://en.wikipedia.org/wiki/Lucian
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6829'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Lucian, of Samosata -- Translations into English'
+title: Works of Lucian of Samosata — Volume 03
+url: http://www.gutenberg.org/ebooks/6829
